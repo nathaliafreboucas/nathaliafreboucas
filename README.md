@@ -1,9 +1,10 @@
-### Oi, eu sou Nathália!👋
+### Oi, eu sou a Nathália!👋 🏳️‍🌈
 
 
-- 😄 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - ⚡ Atualmente estudando HTML CSS JavaScript
 - 📫 Contate-me: contato.nathaliareboucas@outlook.com
+- 😄 Pronome: ela/dela
 
 <div align="center">
   <a href="https://github.com/nathaliafreboucas">
