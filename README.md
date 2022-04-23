@@ -19,3 +19,9 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:60px;heigth:60px;"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="width:60px;heigth:60px;"/>
   </div>
+  
+  ##
+  <h2>Conecte-se 🤗</h2> 
+   <a href="https://www.linkedin.com/in/nathalia-reboucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="width:80px;display: block; margin-top: 0px"/></a>
+  
+
