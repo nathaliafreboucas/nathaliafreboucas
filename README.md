@@ -21,7 +21,6 @@
   </div>
   
   ##
-  <h2>Conecte-se 🤗</h2> 
-   <a href="https://www.linkedin.com/in/nathalia-reboucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="width:80px;display: block; margin-top: 0px"/></a>
+  <a href="https://www.linkedin.com/in/nathalia-reboucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="width:80px;display: block; margin-top: 0px"/></a>
   
 
