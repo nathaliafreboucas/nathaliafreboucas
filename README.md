@@ -2,7 +2,7 @@
 
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- ⚡ Atualmente estudando HTML CSS JavaScript
+- ⚡ Atualmente estudando Vue.js 3
 - 📫 Contate-me: contato.nathaliareboucas@outlook.com
 - 😄 Pronome: ela/dela
 
