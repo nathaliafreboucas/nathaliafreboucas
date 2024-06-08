@@ -1,8 +1,7 @@
 ### Oi, eu sou a Nathália!👋 🏳️‍🌈
 
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- ⚡ Atualmente estudando Vue.js 3
+- 💻 Desenvolvedora Front-End
 - 📫 Contate-me: contato.nathaliareboucas@outlook.com
 - 😄 Pronome: ela/dela
 
